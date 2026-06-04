@@ -13,8 +13,8 @@ I build automation, backend tools, AI-assisted systems, and performance-focused 
 </p>
 
 <p align="center">
-  <img src="./images/chibi-uniform-card.png" width="240" alt="Cute chibi anime character in blue uniform on a soft white card" />
-  <img src="./images/chibi-basketball-card.png" width="240" alt="Cute chibi anime character holding a basketball on a soft white card" />
+  <img src="./images/chibi-uniform-transparent.png" width="240" alt="Cute chibi anime character in blue uniform" />
+  <img src="./images/chibi-basketball-transparent.png" width="240" alt="Cute chibi anime character holding a basketball" />
 </p>
 
 ## Current Focus
