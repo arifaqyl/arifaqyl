@@ -12,6 +12,11 @@ I build automation, backend tools, AI-assisted systems, and performance-focused 
   <a href="mailto:hello@arifaqyl.me"><img src="https://img.shields.io/badge/Email-hello@arifaqyl.me-363739?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="./images/chibi-uniform.png" width="230" alt="Cute chibi anime character in blue uniform" />
+  <img src="./images/chibi-basketball.png" width="230" alt="Cute chibi anime character holding a basketball" />
+</p>
+
 ## Current Focus
 
 - AI-assisted trading research and paper-trading systems
