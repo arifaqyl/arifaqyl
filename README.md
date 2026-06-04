@@ -47,16 +47,15 @@ I build automation, backend tools, AI-assisted systems, and performance-focused 
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
-## GitHub Stats
+## GitHub Snapshot
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=arifaqyl&show_icons=true&hide_border=true&bg_color=040506&title_color=CCFF00&icon_color=CCFF00&text_color=9c9c9d&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaqyl&layout=compact&hide_border=true&bg_color=040506&title_color=CCFF00&text_color=9c9c9d&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arifaqyl&hide_border=true&background=040506&stroke=363739&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideNums=9c9c9d&currStreakNum=ffffff&dates=6a6b6c&sideLabels=6a6b6c" />
-</p>
+| Area | Current |
+|---|---|
+| Public repositories | 7 |
+| Main strengths | Python automation, backend systems, practical AI tooling |
+| Public focus | trading research, video automation, workflow tools |
+| Current highlight | `prop-firm-ai` |
+| Looking for | internship opportunities in backend engineering, automation, and applied AI |
 
 <p align="center">
   <sub>Open to internship opportunities in backend engineering, automation, and practical AI systems.</sub>
