@@ -20,6 +20,7 @@ Building automation, backend systems, and practical AI tools.
 
 - Public-facing automation and backend systems
 - Practical AI tooling with real usage
+- Interactive project docs that explain the work, not just the repo
 - Projects that can be shipped and maintained end to end
 
 ## Featured Projects
@@ -27,11 +28,11 @@ Building automation, backend systems, and practical AI tools.
 | Project | What it does | Stack |
 |---|---|---|
 | [**whatsapp-assignment-dashboard**](https://github.com/arifaqyl/whatsapp-assignment-dashboard) | Unified VLE + WhatsApp deadline dashboard for Moodle-style university workflows. | Python, Playwright, WAHA, SQLite |
-| [**prop-firm-ai**](https://github.com/arifaqyl/prop-firm-ai) | Safety-first AI trading analyzer and paper execution scaffold with risk gates. | Python, FastAPI, Ollama, YAHOO/FRED |
-| [**vlog-automation**](https://github.com/arifaqyl/vlog-automation) | AI-powered video editing workflow for transcription, trimming, scoring, and export. | Python, faster-whisper, ffmpeg, CUDA |
-| [**clip-finder**](https://github.com/arifaqyl/clip-finder) | Highlight extraction for long recordings using on-set detection and automated clipping. | Python, librosa, ffmpeg, NumPy |
-| [**flight-sniper**](https://github.com/arifaqyl/flight-sniper) | Fare monitor with historical price tracking and Telegram alerts. | Python, SQLite, requests |
-| [**arifaqyl.github.io**](https://github.com/arifaqyl/arifaqyl.github.io) | Personal portfolio site built without a framework. | HTML, CSS, Three.js, GSAP |
+| [**market-research-assistant**](https://github.com/arifaqyl/market-research-assistant) | Safety-first market research analyzer and paper execution scaffold with risk gates. | Python, FastAPI, Ollama, Yahoo/FRED |
+| [**video-editing-automation**](https://github.com/arifaqyl/video-editing-automation) | AI-powered video editing workflow for transcription, trimming, scoring, and export. | Python, faster-whisper, ffmpeg, CUDA |
+| [**video-clip-finder**](https://github.com/arifaqyl/video-clip-finder) | Highlight extraction for long recordings using on-set detection and automated clipping. | Python, librosa, ffmpeg, NumPy |
+| [**flight-fare-monitor**](https://github.com/arifaqyl/flight-fare-monitor) | General flight monitor with history tracking, route config, and Telegram alerts. | Python, SQLite, requests, Amadeus |
+| [**arifaqyl.github.io**](https://github.com/arifaqyl/arifaqyl.github.io) | Portfolio platform with interactive project docs and case studies. | Next.js, Prisma, PostgreSQL |
 
 ## Tools I Work With
 
