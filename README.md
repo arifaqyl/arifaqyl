@@ -1,13 +1,13 @@
-<p align="center">
-  <img src="./images/blue-box.gif" alt="Blue box banner" width="520" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CCFF00&height=96&section=header" />
 
 <h2 align="center">Arif Aqyl</h2>
 
 <p align="center">
 Building automation, backend systems, and practical AI tools.
+</p>
+
+<p align="center">
+  <img src="./images/blue-box.gif" alt="Blue box banner" width="420" />
 </p>
 
 <p align="center">
