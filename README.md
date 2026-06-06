@@ -7,7 +7,7 @@ Building automation, backend systems, and practical AI tools.
 </p>
 
 <p align="center">
-  <img src="./images/blue-box.gif" alt="Blue box banner" width="420" />
+  <img src="https://raw.githubusercontent.com/arifaqyl/arifaqyl/main/images/blue-box.gif" alt="Blue box banner" width="420" />
 </p>
 
 <p align="center">
