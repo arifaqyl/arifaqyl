@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/blue-box.gif" alt="Blue box banner" width="100%" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CCFF00&height=96&section=header" />
 
 <h2 align="center">Arif Aqyl</h2>
