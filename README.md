@@ -16,14 +16,13 @@ Building automation, backend systems, and practical AI tools.
   <a href="mailto:hello@arifaqyl.me"><img src="https://img.shields.io/badge/Email-hello@arifaqyl.me-373739?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-## Current Focus
+## About
 
-- Public-facing automation and backend systems
-- Practical AI tooling with real usage
-- Interactive project docs that explain the work, not just the repo
-- Projects that can be shipped and maintained end to end
+- Software engineering student building automation, backend workflows, and applied AI systems.
+- Main focus: projects with real inputs, clear operations, and public documentation that explains the work.
+- Looking for internship opportunities in backend engineering, automation, and applied AI.
 
-## Featured Projects
+## Selected Work
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -34,7 +33,7 @@ Building automation, backend systems, and practical AI tools.
 | [**flight-fare-monitor**](https://github.com/arifaqyl/flight-fare-monitor) | General flight monitor with history tracking, route config, and Telegram alerts. | Python, SQLite, requests, Amadeus |
 | [**arifaqyl.github.io**](https://github.com/arifaqyl/arifaqyl.github.io) | Portfolio platform with interactive project docs and case studies. | Next.js, Prisma, PostgreSQL |
 
-## Tools I Work With
+## Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -45,6 +44,12 @@ Building automation, backend systems, and practical AI tools.
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
+
+## Contact
+
+- Portfolio: [arifaqyl.me](https://arifaqyl.me)
+- LinkedIn: [linkedin.com/in/arifaqyl](https://linkedin.com/in/arifaqyl)
+- Email: [hello@arifaqyl.me](mailto:hello@arifaqyl.me)
 
 <p align="center">
   <sub>Open to internship opportunities in backend engineering, automation, and applied AI systems.</sub>
