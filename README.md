@@ -3,7 +3,7 @@
 <h2 align="center">Arif Aqyl</h2>
 
 <p align="center">
-Building automation, backend systems, and practical AI tools.
+Building practical AI tools, automation systems, backend workflows, and operator-first products.
 </p>
 
 <p align="center">
@@ -18,20 +18,33 @@ Building automation, backend systems, and practical AI tools.
 
 ## About
 
-- Software engineering student building automation, backend workflows, and applied AI systems.
-- Main focus: projects with real inputs, clear operations, and public documentation that explains the work.
+- Software engineering student building backend-heavy systems, automation workflows, and applied AI tools.
+- Main focus: products with real operational inputs, explicit trust boundaries, and clean public documentation.
+- Current flagship: **Sah.Bukti**, a WhatsApp-first collections control plane for Malaysian micro-sellers.
 - Looking for internship opportunities in backend engineering, automation, and applied AI.
 
-## Selected Work
+## Current flagship
+
+### [Sah.Bukti](https://github.com/arifaqyl/sah-bukti)
+
+Proof before payment. Clean books after.
+
+Sah.Bukti turns messy WhatsApp order and payment messages into structured evidence, routes them through owner review, and updates ledger truth only after approval.
+
+- Live product: [arifaqyl.me/frontend](https://arifaqyl.me/frontend/)
+- Stack: FastAPI, SQLite, React, WAHA
+- Focus: evidence intake, review queue, approval gate, accountant export, month-end readiness
+
+## Selected work
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Sah.Bukti**](https://github.com/arifaqyl/sah-bukti) | WhatsApp-first collections control plane for Malaysian micro-sellers with review before ledger mutation. | FastAPI, SQLite, React, WAHA |
+| [**video-editing-automation**](https://github.com/arifaqyl/video-editing-automation) | Turns one long raw gameplay or vlog recording into one shorter, watchable long-form cut. | Python, faster-whisper, ffmpeg, PySceneDetect |
 | [**whatsapp-assignment-dashboard**](https://github.com/arifaqyl/whatsapp-assignment-dashboard) | Unified VLE + WhatsApp deadline dashboard for Moodle-style university workflows. | Python, Playwright, WAHA, SQLite |
 | [**market-research-assistant**](https://github.com/arifaqyl/market-research-assistant) | Safety-first market research analyzer and paper execution scaffold with risk gates. | Python, FastAPI, Ollama, Yahoo/FRED |
-| [**video-editing-automation**](https://github.com/arifaqyl/video-editing-automation) | AI-powered video editing workflow for transcription, trimming, scoring, and export. | Python, faster-whisper, ffmpeg, CUDA |
-| [**video-clip-finder**](https://github.com/arifaqyl/video-clip-finder) | Highlight extraction for long recordings using on-set detection and automated clipping. | Python, librosa, ffmpeg, NumPy |
-| [**flight-fare-monitor**](https://github.com/arifaqyl/flight-fare-monitor) | General flight monitor with history tracking, route config, and Telegram alerts. | Python, SQLite, requests, Amadeus |
-| [**arifaqyl.github.io**](https://github.com/arifaqyl/arifaqyl.github.io) | Portfolio platform with interactive project docs and case studies. | Next.js, Prisma, PostgreSQL |
+| [**video-clip-finder**](https://github.com/arifaqyl/video-clip-finder) | Highlight extraction for long recordings using audio and motion signals. | Python, ffmpeg, NumPy |
+| [**flight-fare-monitor**](https://github.com/arifaqyl/flight-fare-monitor) | Flight monitor with history tracking, route config, and Telegram alerts. | Python, SQLite, requests, Amadeus |
 
 ## Tools
 
@@ -41,7 +54,7 @@ Building automation, backend systems, and practical AI tools.
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
