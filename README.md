@@ -3,8 +3,8 @@
 <h2 align="center">Arif Aqyl</h2>
 
 <p align="center">
-Software Engineering student at <strong>UniKL MIIT</strong> (Class of 2028).<br />
-Building backend systems, automation workflows, and operator-first products with live URLs and clean public docs.
+Backend &amp; automation developer building <strong>live products</strong> for Malaysia — transport intelligence, commerce tooling, and operator-first dashboards.<br />
+Shipped URLs, clean APIs, Docker in production.
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Sah.Bukti turns messy WhatsApp order and payment messages into structured eviden
 | **[aduanmy](https://github.com/arifaqyl/aduanmy)** | Production transport intelligence — multi-source ingest, strict scraper gates, Stitch PWA, Docker deploy | Python, FastAPI, SQLite, MapLibre, Playwright |
 | **[sah-bukti](https://github.com/arifaqyl/sah-bukti)** | WhatsApp-first collections control plane for Malaysian micro-sellers | FastAPI, SQLite, React, WAHA |
 | **[video-editing-automation](https://github.com/arifaqyl/video-editing-automation)** | Long raw recording → shorter watchable cut with transcription and dead-air trim | Python, faster-whisper, ffmpeg |
-| **[whatsapp-assignment-dashboard](https://github.com/arifaqyl/whatsapp-assignment-dashboard)** | Unified VLE + WhatsApp deadline dashboard for university workflows | Python, Playwright, WAHA, SQLite |
+| **[whatsapp-assignment-dashboard](https://github.com/arifaqyl/whatsapp-assignment-dashboard)** | Unified VLE + WhatsApp deadline dashboard | Python, Playwright, WAHA, SQLite |
 | **[video-clip-finder](https://github.com/arifaqyl/video-clip-finder)** | Highlight extraction from long recordings | Python, ffmpeg, NumPy |
 | **[flight-fare-monitor](https://github.com/arifaqyl/flight-fare-monitor)** | Flight monitor with history tracking and Telegram alerts | Python, SQLite, requests |
 
@@ -74,7 +74,7 @@ Sah.Bukti turns messy WhatsApp order and payment messages into structured eviden
 - Email: [hello@arifaqyl.me](mailto:hello@arifaqyl.me)
 
 <p align="center">
-  <sub>Open to software engineering internships in Kuala Lumpur or remote.</sub>
+  <sub>Kuala Lumpur · <a href="mailto:hello@arifaqyl.me">hello@arifaqyl.me</a></sub>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58CC02&height=80&section=footer" />
