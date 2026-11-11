@@ -1,9 +1,9 @@
 <h1 align="center">Arif Aqyl</h1>
 
 <p align="center">
-Backend &amp; automation developer in Kuala Lumpur building <strong>software for Malaysia</strong>.<br />
-Two apps in production on a Raspberry Pi in my room, and a set of open-source libraries<br />
-that get Malaysian rules right and cite where they come from.
+Software engineering student in Kuala Lumpur.<br />
+Most of what I build starts as a small irritation, and everything on
+<a href="https://arifaqyl.me">arifaqyl.me</a> is served from a Raspberry Pi 4 in my room.
 </p>
 
 <p align="center">
@@ -18,55 +18,42 @@ that get Malaysian rules right and cite where they come from.
   <img src="./images/chibi-basketball-transparent.png" width="200" alt="Chibi character with basketball" />
 </p>
 
-## Libraries for Malaysian developers
-
-Small, dependency-free Python packages. Each one takes a rule that every
-Malaysian codebase reimplements badly, does it from the primary source,
-and tests it against published figures. CLI, type hints, CI.
-
-| Package | What it gets right | Verified against |
-|---|---|---|
-| **[gaji](https://github.com/arifaqyl/gaji)** | Take-home pay: EPF, SOCSO, EIS and monthly PCB, including the s6A rebate most calculators forget. Reverse mode: gross for a target net. | KWSP Third Schedule, PERKESO band tables, LHDN YA2025. 209 tests |
-| **[cuti](https://github.com/arifaqyl/cuti)** | Public holidays for all sixteen states, Friday–Saturday weekends, opt-in replacement days. A subscribable `.ics` feed per state. | The JPM gazette, row by row. 40 tests |
-| **[sahih](https://github.com/arifaqyl/sahih)** | MyKad, phone numbers, postcodes and plates, validated against the published rules, honest about what a number does not tell you. | JPN, MCMC numbering plan, Pos Malaysia. 80 tests |
-| **[tnb](https://github.com/arifaqyl/tnb)** | Your electricity bill line by line on the July 2025 tariff, including which lines SST and KWTBB actually apply to. | Six published bill totals reproduced to the sen. 15 tests |
-| **[kwsp](https://github.com/arifaqyl/kwsp)** | EPF dividend history and a retirement projection on EPF's aggregate-balance method, stating the rate it assumed. | KWSP declared rates, three sources cross-checked. 20 tests |
-| **[ringgit](https://github.com/arifaqyl/ringgit)** | Money as `Decimal`: BNM 5-sen cash rounding, SST by category, amounts in Malay words for cheques. Floats refused. | BNM rounding mechanism, RMCD MySST. 47 tests |
-| **[duitnow](https://github.com/arifaqyl/duitnow)** | Parse and validate DuitNow / EMVCo QR payloads: TLV, CRC-16, merchant fields. Builds valid payloads. | EMVCo MPM spec and its CRC check value. 10 tests |
-
-```
-pip install gaji cuti sahih tnb kwsp ringgit duitnow
-```
-
-## Live in production
+## What runs on the Pi
 
 | App | What it does | Link |
 |-----|--------------|------|
-| **TrafficMY** | Malaysia public transport pulse: multi-source ingest, deviation detection, line board, journey planner. Refreshes every 15 minutes. | [arifaqyl.me/traffic](https://arifaqyl.me/traffic/) |
-| **Sah.Bukti** | WhatsApp-first collections control plane for micro-sellers. Order to invoice to review-gated ledger entry. | [arifaqyl.me/sahbukti](https://arifaqyl.me/sahbukti/) |
+| **UniKL Lite** | A fast phone app for UniKL students: timetable, the class on now, QR attendance, coursework and reminders. One HTML file, no framework. Private beta with friends; the source is private. Unofficial, not affiliated with UniKL. | [arifaqyl.me](https://arifaqyl.me/#work) |
+| **Sah.Bukti** | Turns WhatsApp order messages into invoices, and payment messages into proofs the shop owner approves. Built in four days for the Kracked Devs Vibe-a-thon, June 2026. | [Demo](https://arifaqyl.me/sahbukti/) · [Code](https://github.com/arifaqyl/sah-bukti) |
 
-Both run FastAPI + SQLite on a Pi 4 behind Cloudflare Tunnel with no open
-ports. **[pi-lab](https://github.com/arifaqyl/pi-lab)** is the runbook:
-the real configs with secrets stripped, and what broke along the way.
+## I automate what annoys me
 
-## Earlier work
+| Project | What annoyed me | What it does | Language |
+|---------|-----------------|--------------|----------|
+| **[whatsapp-assignment-dashboard](https://github.com/arifaqyl/whatsapp-assignment-dashboard)** | A lecturer moves a deadline in a WhatsApp group | Forwards my class WhatsApp chats to Telegram. It read the VLE too, until UniKL Lite took that over | Python |
+| **[video-editing-automation](https://github.com/arifaqyl/video-editing-automation)** | Cutting a three-hour recording by hand took a day | Finds the dead air with Whisper and renders the shorter cut overnight | Python |
+| **[threadterm](https://github.com/arifaqyl/threadterm)** | Threads only lives in a browser or an app | A terminal app with the following feed, search and copy | Go |
+| **[github-profile-organizer](https://github.com/arifaqyl/github-profile-organizer)** | Tagging every repository by hand is dull | Suggests topics for each repo and applies them through the GitHub API | Java |
+| **[flight-fare-monitor](https://github.com/arifaqyl/flight-fare-monitor)** | | Fare history, threshold alerts and Telegram pings for flights out of KL | Python |
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| **[aduanmy](https://github.com/arifaqyl/aduanmy)** | TrafficMY's source: scraper gates, headway deviation engine, PWA front end | Python, FastAPI, SQLite, MapLibre, Playwright |
-| **[sah-bukti](https://github.com/arifaqyl/sah-bukti)** | Sah.Bukti's source | FastAPI, SQLite, React, WAHA |
-| **[threadterm](https://github.com/arifaqyl/threadterm)** | Threads in your terminal: Bubble Tea TUI + JSON CLI, cross-platform releases | Go, Bubble Tea, Cobra, goreleaser |
-| **[whatsapp-assignment-dashboard](https://github.com/arifaqyl/whatsapp-assignment-dashboard)** | 24/7 academic assistant: VLE scraping, WhatsApp-to-Telegram bridge, daily agenda | Python, Playwright, Telegram API, WAHA |
-| **[video-editing-automation](https://github.com/arifaqyl/video-editing-automation)** | Long raw footage to watchable cut: Whisper transcription and dead-air removal on GPU | Python, faster-whisper, ffmpeg, CUDA |
-| **[flight-fare-monitor](https://github.com/arifaqyl/flight-fare-monitor)** | Fare history, threshold alerts, Telegram pings for cheap flights out of KL | Python, SQLite |
+## Where it started
+
+In 2023 my team at MRSM Gerik designed and pitched **Compostify**, a food-waste app concept for iOS with a
+solar-powered compost bin that weighs what you drop in. We placed second at the iOS App Ideation and
+Prototyping competition for MRSM schools. The sketch and the 3D model are on
+[arifaqyl.me](https://arifaqyl.me/#compostify).
+
+## Also on this profile
+
+- **[pi-lab](https://github.com/arifaqyl/pi-lab)**: the scripts and config behind the Pi (backups, uptime check, nginx and tunnel templates).
+- **[aduanmy](https://github.com/arifaqyl/aduanmy)**: TrafficMY, a public transport tracker for Malaysia. Retired.
+- Small Python libraries for Malaysian rules: [gaji](https://github.com/arifaqyl/gaji), [cuti](https://github.com/arifaqyl/cuti), [sahih](https://github.com/arifaqyl/sahih), [tnb](https://github.com/arifaqyl/tnb), [kwsp](https://github.com/arifaqyl/kwsp), [ringgit](https://github.com/arifaqyl/ringgit), [duitnow](https://github.com/arifaqyl/duitnow).
 
 ## How I build
 
-- **Primary sources first.** A gazette, a statute schedule, a published tariff. Then tests that pin the arithmetic to published figures.
-- **Python + FastAPI** for services, **SQLite** for state, `Decimal` for money.
-- **Automation**: Playwright scrapers, Telegram bots, WhatsApp via WAHA, scheduled jobs that page on transitions, not on every run.
-- **Ship it**: PM2, nginx, Cloudflare Tunnel, a Raspberry Pi that stays up.
-- **Go** for single-binary CLI tools.
+- **Python + FastAPI** for services, **SQLite** for state.
+- **Automation**: Playwright, Telegram bots, WhatsApp through WAHA.
+- **Go** for single-binary command line tools.
+- **Hosting**: nginx and Cloudflare Tunnel on a Raspberry Pi 4.
 
 ## Now
 
