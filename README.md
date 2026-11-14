@@ -14,7 +14,7 @@ Most of what I build starts as a small irritation, and everything on
   <a href="https://x.com/mindofaqyl"><img src="https://img.shields.io/badge/X-@mindofaqyl-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:hello@arifaqyl.me"><img src="https://img.shields.io/badge/Email-hello@arifaqyl.me-F4EEE1?style=flat-square&logo=gmail&logoColor=black" alt="Email" /></a>
   <br />
-  <img src="https://img.shields.io/badge/currently_watching-Blue_Box_%F0%9F%8F%80-4A8FD4?style=flat-square" alt="Currently watching Blue Box" />
+  <img src="https://img.shields.io/badge/currently_watching-Blue_Box_%F0%9F%8F%80%F0%9F%8F%B8-4A8FD4?style=flat-square" alt="Currently watching Blue Box" />
   <img src="https://img.shields.io/badge/favourite-Chinatsu_Kano-F2A33C?style=flat-square" alt="Favourite character: Chinatsu Kano" />
 </p>
 
@@ -31,7 +31,7 @@ Most of what I build starts as a small irritation, and everything on
 | **Sah.Bukti** | Turns WhatsApp order messages into invoices, and payment messages into proofs the shop owner approves. Built in four days for the Kracked Devs Vibe-a-thon, June 2026. | [Demo](https://arifaqyl.me/sahbukti/) · [Code](https://github.com/arifaqyl/sah-bukti) |
 | **Gecko Log** | A phone app for looking after Nugget, my leopard gecko: meals, supplements, weigh-ins, sheds and a photo timeline. One HTML file that works offline, plus a small Python service that sends a Web Push reminder when something is due. | [App](https://arifaqyl.me/gecko/) · [Code](https://github.com/arifaqyl/gecko-log) |
 
-<p align="center">🏀 &nbsp;·&nbsp; · &nbsp;·&nbsp; 🏀</p>
+<p align="center">🏸 &nbsp;·&nbsp; 🏀 &nbsp;·&nbsp; 🏸</p>
 
 ## I automate what annoys me
 
@@ -53,7 +53,7 @@ Prototyping competition for MRSM schools. The sketch and the 3D model are on
 - **[pi-lab](https://github.com/arifaqyl/pi-lab)**: the scripts and config behind the Pi (backups, uptime check, nginx and tunnel templates).
 - **[aduanmy](https://github.com/arifaqyl/aduanmy)**: TrafficMY, a public transport tracker for Malaysia. Retired.
 
-<p align="center">🏀 &nbsp;·&nbsp; · &nbsp;·&nbsp; 🏀</p>
+<p align="center">🏀 &nbsp;·&nbsp; 🏸 &nbsp;·&nbsp; 🏀</p>
 
 ## How I build
 
@@ -75,5 +75,5 @@ Software engineering student at UniKL MIIT. Open to software engineering interns
 
 <p align="center">
   <img src="./images/chibi-basketball-transparent.png" width="110" alt="Chibi Chinatsu with a basketball" /><br />
-  <sub>Kuala Lumpur · MYT · probably rewatching Blue Box between commits 🏀</sub>
+  <sub>Kuala Lumpur · MYT · probably rewatching Blue Box between commits 🏀 🏸</sub>
 </p>
