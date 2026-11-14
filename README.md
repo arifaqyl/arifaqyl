@@ -1,4 +1,6 @@
-<h1 align="center">Arif Aqyl</h1>
+<p align="center">
+  <img src="./images/banner.png" width="100%" alt="Arif Aqyl, software engineering student in Kuala Lumpur. A blue box with a basketball on a pale blue gym floor, and a shuttlecock flying in." />
+</p>
 
 <p align="center">
 Software engineering student in Kuala Lumpur.<br />
