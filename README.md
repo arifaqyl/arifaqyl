@@ -24,6 +24,7 @@ Most of what I build starts as a small irritation, and everything on
 |-----|--------------|------|
 | **UniKL Lite** | A fast phone app for UniKL students: timetable, the class on now, QR attendance, coursework and reminders. One HTML file, no framework. Private beta with friends; the source is private. Unofficial, not affiliated with UniKL. | [arifaqyl.me](https://arifaqyl.me/#work) |
 | **Sah.Bukti** | Turns WhatsApp order messages into invoices, and payment messages into proofs the shop owner approves. Built in four days for the Kracked Devs Vibe-a-thon, June 2026. | [Demo](https://arifaqyl.me/sahbukti/) · [Code](https://github.com/arifaqyl/sah-bukti) |
+| **Gecko Log** | A phone app for looking after Nugget, my leopard gecko: meals, supplements, weigh-ins, sheds and a photo timeline. One HTML file that works offline, plus a small Python service that sends a Web Push reminder when something is due. | [App](https://arifaqyl.me/gecko/) · [Code](https://github.com/arifaqyl/gecko-log) |
 
 ## I automate what annoys me
 
@@ -32,8 +33,6 @@ Most of what I build starts as a small irritation, and everything on
 | **[whatsapp-assignment-dashboard](https://github.com/arifaqyl/whatsapp-assignment-dashboard)** | A lecturer moves a deadline in a WhatsApp group | Forwards my class WhatsApp chats to Telegram. It read the VLE too, until UniKL Lite took that over | Python |
 | **[video-editing-automation](https://github.com/arifaqyl/video-editing-automation)** | Cutting a three-hour recording by hand took a day | Finds the dead air with Whisper and renders the shorter cut overnight | Python |
 | **[threadterm](https://github.com/arifaqyl/threadterm)** | Threads only lives in a browser or an app | A terminal app with the following feed, search and copy | Go |
-| **[github-profile-organizer](https://github.com/arifaqyl/github-profile-organizer)** | Tagging every repository by hand is dull | Suggests topics for each repo and applies them through the GitHub API | Java |
-| **[flight-fare-monitor](https://github.com/arifaqyl/flight-fare-monitor)** | | Fare history, threshold alerts and Telegram pings for flights out of KL | Python |
 
 ## Where it started
 
@@ -46,7 +45,6 @@ Prototyping competition for MRSM schools. The sketch and the 3D model are on
 
 - **[pi-lab](https://github.com/arifaqyl/pi-lab)**: the scripts and config behind the Pi (backups, uptime check, nginx and tunnel templates).
 - **[aduanmy](https://github.com/arifaqyl/aduanmy)**: TrafficMY, a public transport tracker for Malaysia. Retired.
-- Small Python libraries for Malaysian rules: [gaji](https://github.com/arifaqyl/gaji), [cuti](https://github.com/arifaqyl/cuti), [sahih](https://github.com/arifaqyl/sahih), [tnb](https://github.com/arifaqyl/tnb), [kwsp](https://github.com/arifaqyl/kwsp), [ringgit](https://github.com/arifaqyl/ringgit), [duitnow](https://github.com/arifaqyl/duitnow).
 
 ## How I build
 
